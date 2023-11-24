@@ -2,46 +2,16 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Présentation du projet
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Explorez Votre Créativité avec Loufok!**
+Plongez dans le monde imaginatif de l'application web collaborative qui révolutionne la manière dont vous interagissez avec l'art et la créativité. Notre plateforme offre une expérience unique où la collaboration artistique prend vie à travers des cadavres exquis, des histoires collectives et des créations partagées.
 
-## Getting Started
+**Comment ça Marche?**
+Cette application simplifie la collaboration artistique en vous permettant de contribuer à des cadavres exquis. Que vous soyez écrivain ou simplement passionné par l'expression artistique, elle offre un espace où vos idées peuvent fusionner avec celles d'autres esprits créatifs. Explorez des thèmes variés, créez des récits uniques et découvrez une nouvelle dimension de la créativité partagée.
 
-Get started by **creating a new site**.
+**Pourquoi Cette Application?**
+Elle repousse les frontières de la créativité individuelle en introduisant une approche collaborative et ludique. Notre objectif est de créer un espace où l'art transcende les frontières, où les idées se croisent et se métamorphosent en créations uniques. Explorez, créez, partagez et inspirez sur cette plateforme.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+**Rejoignez-nous dans cette Aventure Créative!**
+Que vous soyez un artiste chevronné ou que vous débutiez dans le monde de l'écriture, cette application vous offre une opportunité unique de participer à une expérience artistique collective. Rejoignez notre communauté dès aujourd'hui et faites partie de cette aventure créative passionnante.

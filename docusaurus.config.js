@@ -68,7 +68,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Documentation",
           },
           {
             href: "https://github.com/AkekoChan/loufok1.1",
@@ -81,10 +81,14 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Documentation",
             items: [
               {
-                label: "Tutorial",
+                label: "Models",
+                to: "/docs/intro",
+              },
+              {
+                label: "Entity",
                 to: "/docs/intro",
               },
             ],
