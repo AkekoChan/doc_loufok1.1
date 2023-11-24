@@ -85,11 +85,11 @@ const config = {
             items: [
               {
                 label: "Models",
-                to: "/docs/intro",
+                to: "/docs/models",
               },
               {
                 label: "Entity",
-                to: "/docs/intro",
+                to: "/docs/entities",
               },
             ],
           },
