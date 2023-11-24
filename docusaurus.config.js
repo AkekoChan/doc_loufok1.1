@@ -86,9 +86,13 @@ const config = {
                 to: "/docs/category/models",
               },
               {
-                label: "Entity",
+                label: "Entities",
                 to: "/docs/category/entities",
               },
+              {
+                label: "Utils",
+                to: "/docs/category/utils",
+              }
             ],
           },
           {
