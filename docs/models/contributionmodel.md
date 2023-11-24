@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Contribution Model
+# ContributionModel
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
