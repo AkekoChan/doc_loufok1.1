@@ -2,6 +2,7 @@
   "label": "Entities",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Retrouvez toutes les explications sur les entities de notre application"
   }
 }
