@@ -102,6 +102,10 @@ const config = {
                 label: "GitHub",
                 href: "https://github.com/AkekoChan/loufok1.1",
               },
+              {
+                label: "Application",
+                href: "https://projectdev.alwaysdata.net/loufok",
+              }
             ],
           },
         ],
