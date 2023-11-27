@@ -8,7 +8,7 @@ sidebar_position: 3
 Récupère la contribution aléatoire correspondant à l'utilisateur et au cadavre exquis actuel, ou la crée si elle n'existe pas.
 
 ```php
-$randContributionModel = new RandContributionModel();
+$randContributionModel = RandContributionModel::instance();
 $randomContribution = $randContributionModel->getRandomContribution(1, 1);
 ```
 
