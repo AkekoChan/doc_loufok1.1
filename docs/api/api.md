@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Resources
+# Endpoints
 
 Toutes les informations sur les endpoints de l'API
 
