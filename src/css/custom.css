@@ -33,9 +33,8 @@
   --ifm-heading-color: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-
-.featureSvg_src-components-HomepageFeatures-styles-module path {
-  fill: var(--ifm-color-content) !important;
+.dark .featureSvg_src-components-HomepageFeatures-styles-module path {
+  fill: #fff !important;
 }
 
 .footer {
