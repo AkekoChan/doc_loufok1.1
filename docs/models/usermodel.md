@@ -4,7 +4,10 @@ sidebar_position: 4
 
 # UsersModel
 
+Toutes les méthodes liées au UsersModel.
+
 ## `getUser(string $email)`
+
 Récupère un utilisateur par son adresse e-mail, qu'il soit un utilisateur standard ou un administrateur.
 
 ```php
@@ -15,6 +18,7 @@ $user = $userModel->getUser("loufok@mail.fr");
 Retour : Instance de [UserEntity](/docs/entities/userentity) ou null si l'utilisateur n'existe pas.
 
 ## `getUserById(int $id, bool $is_admin = false)`
+
 Récupère un utilisateur par son id, qu'il soit un utilisateur standard ou un administrateur.
 
 ```php
@@ -23,8 +27,8 @@ $user = $userModel->getUserById(1, false);
 ```
 
 Paramètres :\
-    `$id` : Identifiant de l'utilisateur.\
-    `$is_admin` : (Optionnel) Indique si l'utilisateur est un administrateur. Par défaut, c'est un utilisateur standard.
+ `$id` : Identifiant de l'utilisateur.\
+ `$is_admin` : (Optionnel) Indique si l'utilisateur est un administrateur. Par défaut, c'est un utilisateur standard.
 
 Retour : Instance de [UserEntity](/docs/entities/userentity) ou null si l'utilisateur n'existe pas.
 

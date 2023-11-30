@@ -1,0 +1,8 @@
+{
+  "label": "Api",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Retrouvez toutes les explications sur l'api pour l'application Daylire"
+  }
+}

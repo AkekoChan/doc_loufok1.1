@@ -4,7 +4,10 @@ sidebar_position: 3
 
 # RandContributionModel
 
+Toutes les méthodes liées au RandContributionModel.
+
 # `getRandomContribution(int $user_id, int $current_cadavre_id)`
+
 Récupère la contribution aléatoire correspondant à l'utilisateur et au cadavre exquis actuel, ou la crée si elle n'existe pas.
 
 ```php
