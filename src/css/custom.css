@@ -35,7 +35,7 @@
 }
 
 .featureSvg_src-components-HomepageFeatures-styles-module path {
-  fill: var(--ifm-color-content);
+  fill: var(--ifm-color-content) !important;
 }
 
 .footer {
