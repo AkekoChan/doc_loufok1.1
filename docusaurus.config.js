@@ -92,10 +92,11 @@ const config = {
               {
                 label: "Utils",
                 to: "/docs/category/utils",
-              }
+              },
               {
-                label: "API", to: "/docs/category/api"
-              }
+                label: "API",
+                to: "/docs/category/api",
+              },
             ],
           },
           {
@@ -108,7 +109,7 @@ const config = {
               {
                 label: "Application",
                 href: "https://projectdev.alwaysdata.net/loufok",
-              }
+              },
             ],
           },
         ],
