@@ -33,7 +33,7 @@
   --ifm-heading-color: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-.dark .featureSvg_GfXr path {
+[data-theme="dark"] .featureSvg_GfXr path {
   fill: #fff !important;
 }
 
